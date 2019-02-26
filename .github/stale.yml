@@ -1,0 +1,6 @@
+# Number of days of inactivity before an issue becomes stale. Like bread.
+daysUntilStale: 31
+# Number of days of inactivity before a stale issue is closed for good. Like toys r us. Big rip.
+daysUntilClose: 20
+# Issues only. We are very selective here.
+only: 'issues'
