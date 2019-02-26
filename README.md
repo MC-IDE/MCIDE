@@ -22,6 +22,8 @@ Being that MCIDE is built in part by Init Studios, a Minecraft modding studio, w
 - BungeeCord
 - Waterfall
 - Fabric (new!)
+- Canary
+- Neptune
 
 Each platform has it's own plugin, so you can customize MCIDE according to your needs as a Minecraft developer. MCIDE doubles as a Java IDE, with amazingly intelligent code completion and refactoring capabilities. On top of this, custom Minecraft file types such as .lang files have intelligent code completion based on your project.
 
